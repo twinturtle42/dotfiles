@@ -5,16 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Babel",
 		"BracketHighlighter",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
 		"Package Control",
 		"SCSS",
-		"ERB Snippets"
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
 	]
 }
