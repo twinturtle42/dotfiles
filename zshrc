@@ -143,3 +143,4 @@ export PYTHONBREAKPOINT=ipdb.set_trace
 # export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 # eval "$(direnv hook zsh)"
 eval "$(direnv hook zsh)"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
